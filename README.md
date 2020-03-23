@@ -28,8 +28,8 @@ Application Size - 16MB / 26MB <br>
 4. Run the Application from the App Drawer.
 
 ### iOS (MacBook Required)
-1. Download the .iOS installation file from the following link
-  [App Realease iOS]         - [Download](https://github.com/sgagankumar/Flutter-StartUpNameGenerator/blob/master/Application%20Release/iOS/SNG-release.ios)
+1. Download the .iOS installation file from the following link  <br>
+  [App Realease iOS]  - [Download](https://github.com/sgagankumar/Flutter-StartUpNameGenerator/blob/master/Application%20Release/iOS/SNG-release.ios)  <br>
 2. Run the Installer on the iOS device using XCode (MacBook Required)
 3. Run the Installed Application
 
