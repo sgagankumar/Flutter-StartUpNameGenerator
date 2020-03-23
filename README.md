@@ -28,7 +28,7 @@ Application Size - 16MB /
 4. Run the Application from the App Drawer.
 
 ### iOS
-[GitHub](http://github.com)
+
 
 ## User Interface
 <div align="center" >
