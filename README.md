@@ -5,24 +5,24 @@ Generate random Names just with one tap, Simple and Intuitive, keep scrolling in
 Favorite the ones that grab your attention and choose amoong them later.
 
 ## Application Information
-Version - 1.0.2
-Compatibility - Andriod Kitkat and iOS 9 onwards
-Application Permisions - None
+Version - 1.0.2 <br>
+Compatibility - Andriod Kitkat and iOS 9 onwards <br>
+Application Permisions - None <br>
 
 ## Technical Information
-Developed Platform - Flutter with Android SDK
-Language - Dart
-System Requirements - Android 4.4 / iOS 9
-Application Size - 16MB /
+Developed Platform - Flutter with Android SDK <br>
+Language - Dart <br>
+System Requirements - Android 4.4 / iOS 9 <br>
+Application Size - 16MB / 26MB <br>
 
 ## INSTALLATION
 ### ANDROID
 1. Download the Respective .apk file compatible with your android device. ( if unaware, use the universal installer )
-  Available Versions
-  1. Universal Installer     - [SNG-release.apk](https://github.com/sgagankumar/Flutter-StartUpNameGenerator/blob/master/Application%20Release/Android/SNG-release.apk)
-  2. x86 64 bit Installer    - [SNG-app-x86_64-release.apk](https://github.com/sgagankumar/Flutter-StartUpNameGenerator/blob/master/Application%20Release/Android/SNG-x86_64-release.apk)
-  3. arm 64 bit Installer    - [SNG-app-arm64-v8a-release.apk](https://github.com/sgagankumar/Flutter-StartUpNameGenerator/raw/master/Application%20Release/Android/SNG-arm64-v8a-release.apk)
-  4. arm EBI Installer       - [SNG-app-armeabi-v7a-release.apk](https://github.com/sgagankumar/Flutter-StartUpNameGenerator/blob/master/Application%20Release/Android/SNG-armeabi-v7a-release.apk)
+  Available Versions <br>
+  1.Universal Installer     - [SNG-release.apk](https://github.com/sgagankumar/Flutter-StartUpNameGenerator/blob/master/Application%20Release/Android/SNG-release.apk) <br>
+  2.x86 64 bit Installer    - [SNG-app-x86_64-release.apk](https://github.com/sgagankumar/Flutter-StartUpNameGenerator/blob/master/Application%20Release/Android/SNG-x86_64-release.apk) <br>
+  3.arm 64 bit Installer    - [SNG-app-arm64-v8a-release.apk](https://github.com/sgagankumar/Flutter-StartUpNameGenerator/raw/master/Application%20Release/Android/SNG-arm64-v8a-release.apk) <br>
+  4.arm EBI Installer       - [SNG-app-armeabi-v7a-release.apk](https://github.com/sgagankumar/Flutter-StartUpNameGenerator/blob/master/Application%20Release/Android/SNG-armeabi-v7a-release.apk) <br>
 2. Run the .apk on your mobile device.
 3. The OS will prompt for installation from unknown sources, click **Accept**.
 4. Run the Application from the App Drawer.
