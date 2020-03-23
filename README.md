@@ -1,6 +1,6 @@
 # Flutter-StartUpNameGenerator
 ## About
-### Couldn't figure out what your start up should be called? This App is design just for you.
+### Couldn't figure out what your start up should be called? This App is designed just for you.
 Generate random Names just with one tap, Simple and Intuitive, keep scrolling infinitely until you find the one that is meant for you.
 Favorite the ones that grab your attention and choose amoong them later.
 
@@ -27,4 +27,19 @@ Application Size - 16MB /
 3. The OS will prompt for installation from unknown sources, click **Accept**.
 4. Run the Application from the App Drawer.
 
-<div align="center" ><img src="https://raw.githubusercontent.com/sgagankumar/Flutter-StartUpNameGenerator/master/Screenshots/SS1.jpg" alt="Application Interface" width=auto height=100px/></div>
+### iOS
+
+
+## User Interface
+<div align="center" >
+  <img src="https://raw.githubusercontent.com/sgagankumar/Flutter-StartUpNameGenerator/master/Screenshots/SS1.jpg" alt="Application Interface" width=auto height=100px/>
+ <img src="https://raw.githubusercontent.com/sgagankumar/Flutter-StartUpNameGenerator/master/Screenshots/SS2.jpg" alt="Application Interface" width=auto height=100px/></div>
+
+
+
+
+
+
+
+
+
