@@ -35,7 +35,7 @@ Application Size - 16MB /
   <img src="https://raw.githubusercontent.com/sgagankumar/Flutter-StartUpNameGenerator/master/Screenshots/SS1.jpg" alt="Application Interface" width=auto height=550px hspace="20"/>
  <img src="https://raw.githubusercontent.com/sgagankumar/Flutter-StartUpNameGenerator/master/Screenshots/SS2.jpg" alt="Application Interface" width=auto height=550pxhspace="20"/>
 </div>
-![Open Demo Video](https://www.github.com/sgagankumar/Flutter-StartUpNameGenerator/raw/master/Screenshots/Demo.mp4 "Download Video")
+![Open Demo Video](https://www.github.com/sgagankumar/Flutter-StartUpNameGenerator/raw/master/Screenshots/Demo.mp4)
 
 
 
