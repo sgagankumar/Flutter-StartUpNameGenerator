@@ -19,16 +19,19 @@ Application Size - 16MB /
 ### ANDROID
 1. Download the Respective .apk file compatible with your android device. ( if unaware, use the universal installer )
   Available Versions
-  1.1 Universal Installer     - SNG-release.apk
-  1.2 x86 64 bit Installer    - SNG-app-x86_64-release.apk
-  1.3 arm 64 bit Installer    - [SNG-app-arm64-v8a-release.apk](https://github.com/sgagankumar/Flutter-StartUpNameGenerator/raw/master/Application%20Release/Android/SNG-arm64-v8a-release.apk)
-  1.4 arm EBI Installer       - SNG-app-armeabi-v7a-release.apk
+  1. Universal Installer     - [SNG-release.apk](https://github.com/sgagankumar/Flutter-StartUpNameGenerator/blob/master/Application%20Release/Android/SNG-release.apk)
+  2. x86 64 bit Installer    - [SNG-app-x86_64-release.apk](https://github.com/sgagankumar/Flutter-StartUpNameGenerator/blob/master/Application%20Release/Android/SNG-x86_64-release.apk)
+  3. arm 64 bit Installer    - [SNG-app-arm64-v8a-release.apk](https://github.com/sgagankumar/Flutter-StartUpNameGenerator/raw/master/Application%20Release/Android/SNG-arm64-v8a-release.apk)
+  4. arm EBI Installer       - [SNG-app-armeabi-v7a-release.apk](https://github.com/sgagankumar/Flutter-StartUpNameGenerator/blob/master/Application%20Release/Android/SNG-armeabi-v7a-release.apk)
 2. Run the .apk on your mobile device.
 3. The OS will prompt for installation from unknown sources, click **Accept**.
 4. Run the Application from the App Drawer.
 
-### iOS
-
+### iOS (MacBook Required)
+1. Download the .iOS installation file from the following link
+  [App Realease iOS]         - [Download](https://github.com/sgagankumar/Flutter-StartUpNameGenerator/blob/master/Application%20Release/iOS/SNG-release.ios)
+2. Run the Installer on the iOS device using XCode (MacBook Required)
+3. Run the Installed Application
 
 ## User Interface
 <div align="center" >
