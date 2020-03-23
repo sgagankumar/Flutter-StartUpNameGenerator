@@ -21,7 +21,7 @@ Application Size - 16MB /
   Available Versions
   1.1 Universal Installer     - SNG-release.apk
   1.2 x86 64 bit Installer    - SNG-app-x86_64-release.apk
-  1.3 arm 64 bit Installer    - SNG-app-arm64-v8a-release.apk
+  1.3 arm 64 bit Installer    - [SNG-app-arm64-v8a-release.apk](https://github.com/sgagankumar/Flutter-StartUpNameGenerator/raw/master/Application%20Release/Android/SNG-arm64-v8a-release.apk)
   1.4 arm EBI Installer       - SNG-app-armeabi-v7a-release.apk
 2. Run the .apk on your mobile device.
 3. The OS will prompt for installation from unknown sources, click **Accept**.
@@ -37,11 +37,3 @@ Application Size - 16MB /
 </div>
 
 [Open Demo Video](https://www.github.com/sgagankumar/Flutter-StartUpNameGenerator/raw/master/Screenshots/Demo.mp4)
-
-
-
-
-
-
-
-
