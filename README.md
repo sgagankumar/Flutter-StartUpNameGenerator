@@ -36,6 +36,6 @@ Application Size - 16MB / 26MB <br>
 ## User Interface
 [Open Demo Video](https://www.github.com/sgagankumar/Flutter-StartUpNameGenerator/raw/master/Screenshots/Demo.mp4)
 <div align="center" >
-  <img src="Screenshots/SS1.jpg" alt="Application Interface" width=auto height=550px hspace="20"/>
+  <div><img src="Screenshots/SS1.jpg" alt="Application Interface" width=auto height=550px hspace="20"/></div>
  <img src="Screenshots/SS2.jpg" alt="Application Interface" width=auto height=550pxhspace="20"/>
 </div>
