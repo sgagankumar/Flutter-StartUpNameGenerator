@@ -39,4 +39,4 @@ Application Size - 16MB / 26MB <br>
   <img src="https://raw.githubusercontent.com/sgagankumar/Flutter-StartUpNameGenerator/master/Screenshots/SS1.jpg" alt="Application Interface" width=auto height=550px hspace="20"/>
  <img src="https://raw.githubusercontent.com/sgagankumar/Flutter-StartUpNameGenerator/master/Screenshots/SS2.jpg" alt="Application Interface" width=auto height=550pxhspace="20"/>
 </div>
-[Screenshot1](https://raw.githubusercontent.com/sgagankumar/Flutter-StartUpNameGenerator/master/Screenshots/SS1.jpg)
+![Screenshot1](https://raw.githubusercontent.com/sgagankumar/Flutter-StartUpNameGenerator/master/Screenshots/SS1.jpg)
