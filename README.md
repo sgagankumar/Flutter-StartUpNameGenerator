@@ -1,4 +1,4 @@
-# Flutter-StartUpNameGenerator
+# [Flutter-StartUpNameGenerator](https://sgagankumar.github.io/Flutter-StartUpNameGenerator/)
 ## About
 ### Couldn't figure out what your start up should be called? This App is designed just for you.
 Generate random Names just with one tap, Simple and Intuitive, keep scrolling infinitely until you find the one that is meant for you.
