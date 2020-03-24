@@ -34,6 +34,6 @@ Application Size - 16MB / 26MB <br>
 3. Run the Installed Application
 
 ## User Interface
-[Open Demo Video](https://www.github.com/sgagankumar/Flutter-StartUpNameGenerator/raw/master/Screenshots/Demo.mp4)
+[Open Demo Video](https://www.github.com/sgagankumar/Flutter-StartUpNameGenerator/raw/master/Screenshots/Demo.mp4)  <br>
 <img src="Screenshots/SS1.jpg" alt="Application Interface" width=auto height=550px hspace="20"/>
 <img src="Screenshots/SS2.jpg" alt="Application Interface" width=auto height=550px hspace="20"/>
